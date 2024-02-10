@@ -31,13 +31,13 @@ Ensure you have the following prerequisites installed on your system:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/gcp-skill-badge-counter.git
+git clone https://github.com/muhammedazhar/GCP-BadgeCounter
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd gcp-skill-badge-counter
+cd GCP-BadgeCounter
 ```
 
 3. Update the `url` variable in the script (`badge_counter.py`) with your personal public link to your Google Cloud Skill Boost profile.
