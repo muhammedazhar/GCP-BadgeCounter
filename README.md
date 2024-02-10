@@ -60,7 +60,7 @@ Feel free to contribute to this project or suggest any improvements!
 
 ## License
 
-This project is licensed under the [MIT License](../docs/LICENSE).
+This project is licensed under the [MIT License](./docs/LICENSE).
 
 ## Questions and Support
 
